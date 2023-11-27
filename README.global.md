@@ -1,6 +1,7 @@
 # Participant
 Téo Asseline
 Yael Alfred
+Anis Zizi
 
 # Refactoring Golf
 
